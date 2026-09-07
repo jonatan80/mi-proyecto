@@ -36,7 +36,8 @@ El objetivo es analizar el comportamiento del inventario, identificar los produc
 
 ## 📊 Resultados
 
-El análisis permite identificar patrones importantes relacionados con los productos, categorías y niveles de inventario, facilitando la interpretación de la información y la toma de decisiones.
+El análisis permite identificar patrones importante
+s relacionados con los productos, categorías y niveles de inventario, facilitando la interpretación de la información y la toma de decisiones.
 
 ## 💡 Principales aprendizajes
 
